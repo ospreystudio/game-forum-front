@@ -1,11 +1,10 @@
 <template>
-<MainPage>
-
-</MainPage>
+<Header />
 </template>
 
 <script setup>
-import MainPage from "../layouts/MainPage";
+import Header from "../components/Header";
+
 </script>
 
 <style scoped>
